@@ -1,0 +1,2 @@
+main:
+	g++ -Iinclude -Llib src/glad.c src/main.cpp -lglfw3dll -o myprogram
